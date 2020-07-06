@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Best Tools for Remote Teams
-bestTool: SomeTool
+title: WeWill...
 ---
 
-h2>The Best Tool is {{ page.bestTool }}</h2>
+# __WeWillWeWillRockYou__
